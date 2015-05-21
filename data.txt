@@ -1,7 +1,7 @@
 Block:
 sifriya-class=0,
-sifriya1=1,
-sifriya2=0,
+ספריה-ראשי=1,
+ספרנית2=0,
 sifuser1=0,
 sifuser2=0,
 sifuser3=0,
