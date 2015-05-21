@@ -2,6 +2,7 @@ Block:
 sifriya-class=0,
 ספריה-ראשי=0,
 ספרנית2=0,
+משתמש=0,
 sifuser1=0,
 sifuser2=0,
 sifuser3=0,
