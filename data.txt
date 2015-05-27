@@ -3,7 +3,7 @@
 ספרנית2=0
 
 administrator=0
-משתמש=0
+משתמש=1
 
 sifuser1=0
 sifuser2=0
